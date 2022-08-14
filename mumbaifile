@@ -1,2 +1,6 @@
 This is to check if the 2nd line is added
+<<<<<<< HEAD
 This is to check if file in branch1 is reflected in master
+=======
+Adding this line as Singapore git user
+>>>>>>> 2f0cff22dd89640fcc9fa84811143ad0c1b68857
